@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: orange;
+    height: 50px;
+}
+
+.link-header {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    background-color: blue;
+    color: white;
+}
+
+a {
+    color: green;
+}
+
+footer {
+    background-color: yellow;
+}
